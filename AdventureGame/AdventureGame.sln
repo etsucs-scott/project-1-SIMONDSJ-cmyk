@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36414.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventureGame.Cli", "AdventureGame.Cli\AdventureGame.Cli.csproj", "{6A73F8AC-8F1D-4915-BE09-C69E4D8A31EA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventureGame.Console", "AdventureGame.Cli\AdventureGame.Console.csproj", "{6A73F8AC-8F1D-4915-BE09-C69E4D8A31EA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventureGame.Core", "AdventureGame.Core\AdventureGame.Core.csproj", "{FAC5EC66-C325-442B-B51C-2911F2CA4C27}"
 EndProject
